@@ -68,3 +68,5 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+https://erthru.medium.com/membuat-restful-api-menggunakan-framework-codeigniter-3-part-2-163cadb32e3a
